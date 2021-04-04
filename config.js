@@ -1,13 +1,13 @@
-const ownerNumber = ["557187645787@s.whatsapp.net"] 
+const ownerNumber = ["12603763944@s.whatsapp.net"] 
 // mude somente o numero e não tire o @s.whatsapp.net
 
-const OriginalOwner = '557187645787' 
+const OriginalOwner = '12603763944' 
 // mude para seu numero
 
 const apikeyporn = 'fc8fe174f018b95cdae9272493f1a12f'
 // sua key do imgbb para ativar o antiporn
 
-const cr = '𝐁𝐑𝐈𝐙𝐀𝐒 𝐁𝐎𝐓\n' 
+const cr = '𝐹𝑒𝑙𝑖𝑥𝑐𝑟𝑎𝑐𝑘 𝐵𝑜𝑡\n' 
 // texto do simbolo de verificado
 
 const prefix = '!' 
@@ -15,13 +15,13 @@ const prefix = '!'
 
 // MENSAGENS DE BAN
 
-const banmsgtype = '*Corra membro comum, o ban estar próximo*'
+const banmsgtype = '*Se va a eliminar a un aborto*'
 // mensagem de ban no anti tipos de mensagem
 
-const adminmsgtype = '*Tu é adm ent n vou te banir por mandar um tipo de mensagem proibida*'
+const adminmsgtype = '*Los Admins tienen permitido enviar enlaces 😁*'
 // mensagem de quando adm manda tipos de mensagens proibidas
 
-const banmsgporn = 'Hmmm pornozinho com antiporn ativado, ja sabe né...'
+const banmsgporn = 'Hmm, Pajin pronto seras baneado'
 // mensagem de ban no antiporn
 
 const adminmsgporn = '*Tu é adm ent n vou te banir por mandar porn*'
@@ -30,50 +30,50 @@ const adminmsgporn = '*Tu é adm ent n vou te banir por mandar porn*'
 const banmsglink = 'Corra Membro comum, O ban está próximo...'
 // mensagem de ban no antilink
 
-const adminmsglink = 'Isso é um link amigo... ah é tu é adm ent pode kkkk 🙃'
+const adminmsglink = 'Eso es un link!! A, eres admin puedes jsjsj 🙃'
 // mensagem de quando adm manda link
 
-const adminmsgpalavra = 'isso esta na lista das palavras proibidas pelo bot'
+const adminmsgpalavra = 'Esta está en la lista de palabras prohibidas por el bot'
 // mensagem de quando adm manda uma palavra proibida pelo bot
 
-const banmsgpalavra = 'Palavra proibida? Já sabe né'
+const banmsgpalavra = 'Oye tu! no digas eso causará baneo'
 // mensagem de ban quando manda uma palavra proibida pelo bot
 
 
 // MENSAGENS DE BOM DIA BOA TARDE E BOA NOITE
 
 const linkimgday = 'https://i.imgur.com/RR18JiI.jpg'
-const textmsgday = 'Ohayo gozaimasu, Onii-chan 👉👈'
+const textmsgday = 'Onii-chan 👉👈'
 // link e mensagem de bom dia
 
 const linkimgeve = 'https://i.ibb.co/bLXgcBW/lp-tarde-anime-by-hitsukinyan-db7fpqr-fullview.jpg'
-const textmsgeve = `Kon'nichiwa Onii-chan, aceite esse café ☕`
+const textmsgeve = `Kon'nichiwa Onii-chan, acepta ese café ☕`
 // link e mensagem de boa tarde
 
 const linkimgnig = 'https://i.ibb.co/VJCd34F/EKvo372-X0-AEd-Hz.jpg'
-const textmsgnig = 'Konbanwa Onii-chan, espero que tenha tido um bom dia ☺️'
+const textmsgnig = 'Konbanwa Onii-chan, espero que hayas tenido un buen día ☺️'
 // link e mensagem de boa noite 
 
 // MENSAGENS DE ERRO
 
-const msgerr = 'Deu erro, tente novamente :/'
+const msgerr = 'Lo Siento Ocurrio Un Error :/'
 // mensagem de erro
 
 // MENSAGENS DE AUTOREPLY
 
-const botlindo = 'Bakaaaa 😣😣'
+const botlindo = '👉🏻👈🏻 🌚'
 const linkbotlindo = 'https://photos1.iorbix.com/00/00/00/00/02/72/43/64/C--6tZwaASQH-b.jpg'
-const botfeio = 'Tu parece um sirgueijo, um caranguejo amassado 😡'
-const cadebot = 'Me chamou onii-chan 👉👈?'
-const botfdp = 'Te foder rapaz, te deitar na porrada quando tiver dormindo'
-const botgostoso = 'Arigato go sai masu 😳👉👈'
-const botfofo = 'Arigato go sai masu 😳👉👈'
-const botbaianor = 'Convidei sua placa-mãe pra minha rede seu corno'
-const botcorno = 'Vai te foder, jogador de ff, comprador de pack do pézinho'
-const botputa = 'Senhora sua mãe 😡'
-const botgay = 'Falou o manja rola 😡'
-const botviado = 'Falou o manja rola 😡'
-const numbotfeio = 'senhora sua mãe 😡'
+const botfeio = 'Te ves como un cangrejo, un cangrejo triturado😡'
+const cadebot = 'Me llamo onii-chan 👉👈?'
+const botfdp = 'Vete a la mierda, te golpea cuando estás dormido'
+const botgostoso = 'Arigato 😳👉👈'
+const botfofo = 'Arigato 😳👉👈'
+const botbaianor = 'Invité a tu placa madre a mi red, tu cornudo'
+const botcorno = 'Vete a la mierda, jugador ff, comprador de paquete de pies'
+const botputa = 'Tu madre JAJAJ😡'
+const botgay = 'Huy mira un joto😡'
+const botviado = 'Dijo que el hombre rueda 😡'
+const numbotfeio = ' tu madre 😡'
 // KEYS
 
 const apiTobz = 'key'
@@ -84,18 +84,18 @@ const apiTobz = 'key'
 
 // MENSAGENS DE EXCLUSIVIDADE
 let mess = {
-    wait: '⌛ Aguarde um pouco... ⌛',
-    success: '✔️ Sucesso! ✔️',
+    wait: '⌛ En Proceso, Aguarda... ⌛',
+    success: '✔️ Exito! ✔️',
     error: {
-        stick: '❌ Falha, ocorreu um erro ao converter a imagem em um adesivo ❌',
+        stick: '❌ Lo siento, ocurrió un error ❌',
         Iv: '❌ Link inválido ❌'
     },
     only: {
-        group: '❌ Este comando só pode ser usado em grupos! ❌',
-        ownerG: '❌ Este comando só pode ser usado pelo grupo proprietário! ❌',
-        ownerB: '❌ Este comando só pode ser usado pelo número proprietário! ❌',
-        admin: '❌ SILÊNCIO MEMBRO COMUM VC N TEM MORAL PRA USAR ESSE COMANDO ❌',
-        Badmin: '❌ Este comando só pode ser usado quando o bot se torna administrador! ❌'
+        group: '❌ ¡Este comando solo se puede usar en grupos! ❌',
+        ownerG: '❌ ¡Este comando solo puede ser utilizado por el admin❌',
+        ownerB: '❌ Este comando solo lo puede usar Felixcrack 409🕶️🤏🏻! ❌',
+        admin: '❌ JAJAJAJA, no eres admin ❌',
+        Badmin: '❌ ¡Este comando solo se puede usar cuando el bot se convierte en administrador! ❌'
     }
 }
 
@@ -103,9 +103,9 @@ let mess = {
 
 const vcard = 'BEGIN:VCARD\n' 
 + 'VERSION:3.0\n' 
-+ 'FN:Meu criador^~^\n' 
++ 'FN:Mi creador ^-^\n' 
 + 'ORG:Ian;\n' 
-+ 'TEL;type=CELL;type=VOICE;waid=557187645787:+55 71 8764-5787\n' 
++ 'TEL;type=CELL;type=VOICE;waid=12603763944:+1 (260) 376-3944\n' 
 + 'END:VCARD'
 //vcard do propietário, mude os numeros de acordo com o formato que
 //ele corresponde
