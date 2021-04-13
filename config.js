@@ -1,13 +1,13 @@
-const ownerNumber = ["12603763944@s.whatsapp.net"] 
+const ownerNumber = ["593992390339@s.whatsapp.net"] 
 // mude somente o numero e não tire o @s.whatsapp.net
 
-const OriginalOwner = '12603763944' 
+const OriginalOwner = '593992390339' 
 // mude para seu numero
 
 const apikeyporn = 'fc8fe174f018b95cdae9272493f1a12f'
 // sua key do imgbb para ativar o antiporn
 
-const cr = '𝐹𝑒𝑙𝑖𝑥𝑐𝑟𝑎𝑐𝑘 𝐵𝑜𝑡\n' 
+const cr = '⋆𝐄𝐗𝐏𝐄𝐑𝐓-𝐁𝐎𝐓⋆\n' 
 // texto do simbolo de verificado
 
 const prefix = '!' 
@@ -71,7 +71,7 @@ const botfofo = 'Arigato 😳👉👈'
 const botbaianor = 'Invité a tu placa madre a mi red, tu cornudo'
 const botcorno = 'Vete a la mierda, jugador ff, comprador de paquete de pies'
 const botputa = 'Tu madre JAJAJ😡'
-const botgay = 'Huy mira un joto😡'
+const botgay = 'Huy mira un joto das asco 😡'
 const botviado = 'Dijo que el hombre rueda 😡'
 const numbotfeio = ' tu madre 😡'
 // KEYS
@@ -105,7 +105,7 @@ const vcard = 'BEGIN:VCARD\n'
 + 'VERSION:3.0\n' 
 + 'FN:Mi creador ^-^\n' 
 + 'ORG:Ian;\n' 
-+ 'TEL;type=CELL;type=VOICE;waid=12603763944:+1 (260) 376-3944\n' 
++ 'TEL;type=CELL;type=VOICE;waid=593992390339:+593 99 239 0339\n' 
 + 'END:VCARD'
 //vcard do propietário, mude os numeros de acordo com o formato que
 //ele corresponde
