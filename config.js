@@ -70,7 +70,7 @@ const botgostoso = 'Arigato 😳👉👈'
 const botfofo = 'Arigato 😳👉👈'
 const botbaianor = 'Invité a tu placa madre a mi red, tu cornudo'
 const botcorno = 'Vete a la mierda, jugador ff, comprador de paquete de pies'
-const botputa = 'Tu madre JAJAJ😡'
+const botputa = 'Puta tu que apoyas al aborto😡'
 const botgay = 'Huy mira un joto das asco 😡'
 const botviado = 'Dijo que el hombre rueda 😡'
 const numbotfeio = ' tu madre 😡'
@@ -93,7 +93,7 @@ let mess = {
     only: {
         group: '❌ ¡Este comando solo se puede usar en grupos! ❌',
         ownerG: '❌ ¡Este comando solo puede ser utilizado por el admin❌',
-        ownerB: '❌ Este comando solo lo puede usar Felixcrack 409🕶️🤏🏻! ❌',
+        ownerB: '❌ Este comando solo lo puede usar Josue🕶️🤏🏻! ❌',
         admin: '❌ JAJAJAJA, no eres admin ❌',
         Badmin: '❌ ¡Este comando solo se puede usar cuando el bot se convierte en administrador! ❌'
     }
